@@ -1,0 +1,5 @@
+sudo mkdir new
+cd new
+sudo touch file{1..10}
+ll > out.log
+
